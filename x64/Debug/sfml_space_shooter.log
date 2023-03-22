@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\PontoZawrik\sfml_space_shooter\sfml_space_shooter\meteor.h(13,11): warning C4244:  инициализация: преобразование "int" в "float", возможна потеря данных
+D:\PontoZawrik\sfml_space_shooter\sfml_space_shooter\meteor.h(17,23): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+D:\PontoZawrik\sfml_space_shooter\sfml_space_shooter\meteor.h(18,23): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+D:\PontoZawrik\sfml_space_shooter\sfml_space_shooter\game.h(11,45): warning C4244:  аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+D:\PontoZawrik\sfml_space_shooter\sfml_space_shooter\game.h(11,31): warning C4244:  аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+  sfml_space_shooter.vcxproj -> D:\PontoZawrik\sfml_space_shooter\x64\Debug\sfml_space_shooter.exe
